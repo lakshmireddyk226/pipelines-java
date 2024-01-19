@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'DESKTOP-PHACP2L'
+  vmImage: 'Lakshmi_Staging_Env'
 
 steps:
 - task: Maven@3
